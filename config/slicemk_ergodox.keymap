@@ -14,10 +14,10 @@
     &kp TAB    &kp Q      &kp W      &kp E      &kp R      &kp T      &kp CLCK   &kp M_MUTE &kp Y      &kp U      &kp I      &kp O      &kp P      &kp BSLH
     &kp ESC    &kp A      &kp S      &kp D      &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &kp SCLN   &kp BSPC
     &mo 2      &kp Z      &kp X      &kp C      &kp V      &kp B      &kp M_VOLD &kp M_VOLU &kp N      &kp M      &kp CMMA   &kp DOT    &kp FSLH   &mo 2
-    &none      &none      &kp LALT   &kp LARW   &kp DARW                                               &kp UARW   &kp RARW   &kp RALT   &kp BSPC   &kp BSLH
+    &kp LCTL   &none      &kp LALT   &kp LARW   &kp DARW                                               &kp UARW   &kp RARW   &kp RALT   &kp BSLH   &kp BSLH
                                                            &kp DEL    &kp HOME   &kp END    &kp INS
                                                                       &kp PGUP   &kp PGDN
-                                                &kp SPC    &kp LCTL                         &kp LSFT   &kp RET
+                                                &kp SPC    &kp BSPC                         &kp LSFT   &kp RET
                                                                       &kp LGUI   &mo 1
                         >;
                 };
